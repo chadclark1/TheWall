@@ -1,0 +1,80 @@
+h1 {
+	text-align: center;
+	margin-top: 75px;
+}
+
+.content{
+	border-top: 1px solid #ccc;
+	max-width: 90%;
+	margin: 0 auto;
+}
+
+.errors{
+
+	margin-top: 20px;
+	background-color: #ff9999;
+	/*border: 3px solid #cc0000;*/
+	border-radius: 3px;
+}
+
+.col-md-5{
+	border: 1px solid #ccc;
+	padding-bottom:20px;
+	margin-top:20px;
+	margin-right: 20px;
+	border-radius: 3px;
+}
+
+.home {
+	max-width: 400px;
+	margin: 0 auto;
+}
+
+
+.logout a {
+	margin-top: 8px;
+	margin-right: 8px;
+	
+}
+
+
+
+a:hover {
+	text-decoration: none;
+	color: white;
+}
+
+
+.post-message {
+	padding-bottom: 30px;
+	border-bottom: 1px solid #ccc;
+}
+
+.messages {
+	margin-top: 20px;
+	padding: 30px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+}
+
+.message {
+	margin-top: 20px;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+}
+
+.message-box{
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 30px;
+}
+
+.date {
+	padding-bottom: 20px;
+}
+
+.comment-form fieldset textarea{
+	width: 100%
+}
+
+
